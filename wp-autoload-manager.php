@@ -6,7 +6,7 @@ namespace WAM;
  * Description: Manages automatic loading of WordPress options.
  * Version: 1.1
  * Author: Alexis Olivero
- * author URI: https://oliverodev.com
+ * author URI: https://oliverodev.pages.dev/
  */
 
 // Prevenir acceso directo
